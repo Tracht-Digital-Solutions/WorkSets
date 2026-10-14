@@ -16,3 +16,7 @@ Die vollständigen Bedingungen und Ausnahmen stehen in [LICENSE](LICENSE).
 **Publicly viewable, all rights reserved.** Public access permits inspection of
 the code, but grants no general permission to copy, modify or commercially reuse
 it. See [LICENSE](LICENSE) for the complete terms and exceptions.
+
+Früher wirksam eingeräumte Nutzungsrechte bleiben unberührt. Das Rust-Manifest
+älterer WorkSets-Fassungen enthielt eine MIT-Lizenzangabe; die neue Richtlinie
+nimmt diese bereits erteilten Rechte nicht rückwirkend zurück.
